@@ -1,0 +1,10 @@
+# Menangani penanda akhir baris secara otomatis dengan preferensi Windows
+* text=auto eol=crlf
+
+# Menggunakan CRLF untuk semua file teks
+* text eol=crlf
+
+# Mengatur gambar agar tidak diubah
+*.png binary
+*.jpg binary
+*.gif binary
